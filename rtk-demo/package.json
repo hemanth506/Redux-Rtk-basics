@@ -1,0 +1,27 @@
+{
+  "name": "redux-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanth506/Redux-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanth506/Redux-basics/issues"
+  },
+  "homepage": "https://github.com/hemanth506/Redux-basics#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.6",
+    "axios": "^1.5.1",
+    "immer": "^10.0.2",
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6"
+  }
+}
