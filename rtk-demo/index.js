@@ -9,11 +9,6 @@ const RESTOCK_CAKE = "RESTOCK_CAKE";
 const ICECREAM_ORDERED = "ICECREAM_ORDERED";
 const RESTOCK_ICECREAM = "RESTOCK_ICECREAM";
 
-// initial state value
-// const initialState = {
-//   numberOfCakes: 10,
-//   numberOfIceScreams: 20,
-// };
 
 const cakeInitialState = {
   numberOfCakes: 10,
